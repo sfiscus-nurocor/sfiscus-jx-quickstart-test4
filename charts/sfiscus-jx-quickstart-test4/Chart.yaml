@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for Kubernetes
+name: sfiscus-jx-quickstart-test4
+version: v0.1.0
